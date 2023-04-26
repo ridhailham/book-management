@@ -1,0 +1,22 @@
+{
+  "name": "book-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "n": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ridha ilham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "mysql2": "^3.2.4",
+    "nodemon": "^2.0.22",
+    "sequelize": "^6.31.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.0"
+  }
+}
